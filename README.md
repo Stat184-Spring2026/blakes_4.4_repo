@@ -1,28 +1,42 @@
-# Project Title
+# HW \# 4.4 Repository Practice
 
-Write a 1-2 sentences that quickly and clearly convey what your repo is for.
+This repo serves as a practice repo on GitHub. The idea is to practice working
+with GitHub repo's such that we can build our understanding of them and use them
+for our final project in Stat184.
 
 ## Overview
 
-Expand on those introductory sentences with a brief but informative description of your project's purpose and goals. This section should help visitors decide whether they should dig deeper into your repo/project.
+In this repo, you will find solutions to HW \# 4.3, which covers the Busiest Airports,
+Monte Carlo Simulation for Numerical Integration, and the Planning/Prompting Gen-AI Sections.
+Looking at the QMD file provides additional insight into the solutions posted as well as the
+code behind the solutions. Additionally the PDF is a structured and rendered final product of
+the QMD file.
 
-### Interesting Insight (Optional)
+### Interesting Insight
 
-This is optional but highly recommended. You'll include one interesting insight from your project as part of the README. This insight is most effective when you include a visual. Keep in mind that this visual must be included as an image file (e.g., JPG, PNG, etc.). You can export plots created with `{ggplot2}` by using the function `ggsave`.
+One interesting insight from this project was how un-human AI really is. While it
+can produce results extremely fast, without extreme planning, improving and polishing,
+it struggles to produce even the most basic of visualizations. Examples can be seen in 
+HW4_3.pdf.
 
 ## Data Sources and Acknowledgements
 
-Be sure to list where you got any data used within the project. Be sure to acknowledge any one whose work or elements you're drawing upon.
+We used two major sources of data for this assignment:
+
+- [Wikipedia's List of Busiest Airports](https://en.wikipedia.org/w/index.php?title=List_of_busiest_airports_by_passenger_traffic&oldid=1347733676) that we scraped for academic purposes.
+- calcium.csv was provided by Neil Hatfield
+
+We also simulated data for the Monte Carlo Simulation. Details are in code.
 
 ## Current Plan
 
-Provide some information about what you intend to doe with the project. You can additionally refer the visitor to your detailed plan document.
+Current plans can be viewed in the Plan_for_HW4_4.docx.
 
 ## Repo Structure
 
-Use this section to explain the structure of your repo. This should help visitors quickly figure out where they should look to find certain elements. Further, you can use this space to highlight and briefly explain important/key files in the repo.
-
+This repo is of simple organization. Most files live at the top level. There is
+an sub-directory, images, which has static image files.
 
 ## Authors
 
-Give information about who are the authors of the project and how people can get in touch if they have questions.
+The author is Blake K. Naluai; [email](bkn5189@psu.edy) him with any questions.
